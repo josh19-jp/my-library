@@ -1,0 +1,33 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "about": "A handbook of agile software craftsmanship. Learn how to write readable, maintainable, and clean code.",
+            "image": "https://m.media-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 2,
+            "title": "The Pragmatic Programmer",
+            "author": "David Thomas & Andrew Hunt",
+            "about": "Your journey to mastery. Covers practical techniques to become a better software developer.",
+            "image": "https://m.media-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "about": "An easy and proven way to build good habits and break bad ones. Tiny changes, remarkable results.",
+            "image": "https://m.media-amazon.com/images/I/51-nXsSRfZL._SX328_BO1,204,203,200_.jpg"
+        
+        },
+        {
+            "id": 4,
+            "title": "Game of Thrones",
+            "author": "George R. R. Martin",
+            "about" : "The first book in a song of ice and fire.Noble families battle for control of The Iron Throne in the mythical land of westeros.",
+            "image" : "https://covers.openlibrary.org/b/isbn/9780553103540-L.jpg" 
+        }
+    ]
+}
